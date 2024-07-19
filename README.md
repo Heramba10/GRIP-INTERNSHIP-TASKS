@@ -14,7 +14,11 @@ Predict the optimum number of clusters in the Iris dataset and represent it visu
 Use the Iris dataset to perform clustering and determine the optimal number of clusters.
 ### Results:
 Optimal number of clusters: 3
+
 Visualization: 
+
+<img width="371" alt="Screenshot 2024-07-19 132936" src="https://github.com/user-attachments/assets/6fd526b9-c931-4ec5-8f10-37efd822d577">
+
 ## Task 3: Exploratory Data Analysis on 'Superstore' Dataset
 ### Objective: 
 Perform Exploratory Data Analysis (EDA) on the 'Superstore' dataset to identify weak areas and potential business problems.
