@@ -24,3 +24,6 @@ Visualization:
 Perform Exploratory Data Analysis (EDA) on the 'Superstore' dataset to identify weak areas and potential business problems.
 ### Description:
 Analyze the 'Superstore' dataset to derive insights that can help improve business profitability.
+### Results:
+
+
