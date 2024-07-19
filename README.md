@@ -5,3 +5,13 @@ This repository contains the tasks completed during my GRIP (Graduate Rotational
 Predict the percentage score of a student based on the number of study hours.
 ### Description:
 This is a simple linear regression task involving two variables: the number of study hours and the percentage score.
+## Task 2: Predict Optimum Number of Clusters from Iris Dataset
+### Objective: 
+Predict the optimum number of clusters in the Iris dataset and represent it visually.
+### Description:
+Use the Iris dataset to perform clustering and determine the optimal number of clusters.
+## Task 3: Exploratory Data Analysis on 'Superstore' Dataset
+### Objective: 
+Perform Exploratory Data Analysis (EDA) on the 'Superstore' dataset to identify weak areas and potential business problems.
+### Description:
+Analyze the 'Superstore' dataset to derive insights that can help improve business profitability.
